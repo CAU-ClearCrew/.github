@@ -142,17 +142,6 @@ Noir 기반 ZKP 서킷은 **오프체인 증명 생성**에 사용됩니다.
 
 ---
 
-## 📚 Detailed Guides
-
-- Frontend/README.md
-- Backend/README.md
-- contracts/README.md
-- zkCircuit/README.md
-
-각 모듈의 상세 실행 방법과 옵션은 위 문서를 참고하세요.
-
----
-
 ## 🎯 프로젝트 목표
 
 기술적으로 검증 가능한 익명 신고 시스템을 통해  
